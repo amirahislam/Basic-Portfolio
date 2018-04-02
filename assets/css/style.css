@@ -1,0 +1,66 @@
+.name {
+    background-color: #4aaaa5;
+    padding: 20px;
+    float: left;
+    top: 20px;
+   
+}
+
+/* header {
+    background-color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px; 
+    border-bottom: solid grey;
+    border-color: #cccccc;
+} */
+
+.topnav {
+    background-color:#ffffff;
+    overflow: hidden;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    /* border-bottom: solid grey; */
+    border-color: #cccccc;
+}
+
+.headerStyle {
+    border-bottom: solid grey;
+}
+body {
+    background-color: orange;
+    
+}
+.aboutMe {
+    box-sizing: 960px;
+    text-align: left;
+    background-color: #ffffff
+
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer {
+    background-color: #666666
+}
+/* Add a black background color to the top navigation */
+
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: right;
+    background-color: #f2f2f2;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+
